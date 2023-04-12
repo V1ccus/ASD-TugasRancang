@@ -1,4 +1,4 @@
-##TC004E | TUGAS RANCANG
+## TC004E | TUGAS RANCANG
 
 ###### T-rex Kayang
 **Team Member :**
