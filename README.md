@@ -1,6 +1,5 @@
 ## TC004E | TUGAS RANCANG
-### T-rex Kayang
-##### Database Mahasiswa
+##### T-rex Kayang : Database Mahasiswa
 
 ###### **Team Member :**
 >1. Jeffri R L Sianturi (672021203)
