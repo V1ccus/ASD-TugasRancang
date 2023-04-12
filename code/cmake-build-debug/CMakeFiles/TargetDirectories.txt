@@ -1,0 +1,3 @@
+D:/MyTask/Code/c++/TR/cmake-build-debug/CMakeFiles/TR.dir
+D:/MyTask/Code/c++/TR/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyTask/Code/c++/TR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
