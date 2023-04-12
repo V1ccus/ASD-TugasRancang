@@ -1,6 +1,6 @@
 ## TC004E | TUGAS RANCANG
 
-###### T-rex Kayang
+##### T-rex Kayang
 
 **Team Member :**
 >1. Jeffri R L Sianturi (672021203)
