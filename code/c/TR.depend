@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681340608 source:d:\mytask\code\c\tr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
